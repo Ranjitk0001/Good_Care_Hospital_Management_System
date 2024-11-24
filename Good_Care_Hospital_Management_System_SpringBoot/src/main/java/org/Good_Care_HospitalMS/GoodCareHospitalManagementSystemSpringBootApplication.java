@@ -8,8 +8,8 @@ public class GoodCareHospitalManagementSystemSpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GoodCareHospitalManagementSystemSpringBootApplication.class, args);
+		
 		System.out.println("Hello");
-		System.out.println("Welcome to Spring Boot");
 	}
 
 }
